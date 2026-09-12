@@ -2,7 +2,7 @@
 
 - __BTC__ <sub>(Bitcoin)</sub>: ```bc1qs3usav6qu44vg36dquy5kqaq64g2ysxnk20a9k```
 - __TRX__ <sub>(Tron, USDT/USDC TRC-20 and other TRX tokens)</sub>: ```TVei8KGmjfpo5f8S6RrWKwGrskxPDpU54h```
-- __EVM__ <sub>(Ethereum, USDT/USDC ERC-20 and other EVM(BSC, Base, Arbitrum, Polygon, Optimism, Avalanche) tokens)</sub>: ```0xC2b2bF95C73366cf070c194D4F8fec1536163c2d```
+- __EVM__ <sub>(Ethereum, USDT/USDC ERC-20 and other EVM (BSC, Base, Arbitrum, Polygon, Optimism, Avalanche) tokens)</sub>: ```0xC2b2bF95C73366cf070c194D4F8fec1536163c2d```
 - __TON__ <sub>(GRAM and other TON tokens)</sub>: ```UQDhTcS9d9L9CUuFr1SVx-8Gg-mYVv0HaSrVQWZ5ZkbG4BCB```
 - __SOL__ <sub>(Solana and other SOL tokens)</sub>: ```5sm2bhRZSCcPeh2hDQTmG75br3gAnBtWLmu5ePrQKZed```
 - __LTC__ <sub>(Litecoin)</sub>: ```ltc1qnha8w8fg68ynd6dw95xn67efrlra6tqjs7zjtn```
