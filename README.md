@@ -7,4 +7,7 @@
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#): _later..._
 
 
+[**Guides**](https://github.com/crysao/guides) | [**Projects**](https://github.com/crysao/projects) 
+
+
 <sub>[for tips](https://github.com/crysao/crysao/blob/main/tips.md)</sub>
