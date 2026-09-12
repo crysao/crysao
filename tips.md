@@ -1,0 +1,22 @@
+# For tips
+
+- __BTC__ <sub>(Bitcoin)</sub>: ```bc1qs3usav6qu44vg36dquy5kqaq64g2ysxnk20a9k```
+- __TRX__ <sub>(Tron, USDT/USDC TRC-20 and other TRX tokens)</sub>: ```TVei8KGmjfpo5f8S6RrWKwGrskxPDpU54h```
+- __EVM__ <sub>(Ethereum, USDT/USDC ERC-20 and other EVM(BSC, Base, Arbitrum, Polygon, Optimism, Avalanche) tokens)</sub>: ```0xC2b2bF95C73366cf070c194D4F8fec1536163c2d```
+- __TON__ <sub>(GRAM and other TON tokens)</sub>: ```UQDhTcS9d9L9CUuFr1SVx-8Gg-mYVv0HaSrVQWZ5ZkbG4BCB```
+- __SOL__ <sub>(Solana and other SOL tokens)</sub>: ```5sm2bhRZSCcPeh2hDQTmG75br3gAnBtWLmu5ePrQKZed```
+- __LTC__ <sub>(Litecoin)</sub>: ```ltc1qnha8w8fg68ynd6dw95xn67efrlra6tqjs7zjtn```
+- __XMR__ <sub>(Monero)</sub>: ```445ADUhEqCoXiQuDdYKZhoEW4M9c7X9TYToJnXjuHpmRhvkLhhnLXxr1uCiGok3Z2bCAzhMbfpWv8CF9apCDxSJoQGGodAa```
+- __Bitcoin Cash__: ```qrjlf8l8qxvfcneg3zazh36qyx8utlcpsvqspk76ms```
+- __SUI__: ```0x3dcfd9b47f69b2dcd9cc8412a962fd2bbb3d23279ec96c3d18b4268719206928```
+- __Zcash__: ```t1boRy2kVrGreUoh2NLCeismx2YckumWLdf```
+- __Dash__: ```XgizSrAK4XVyo3zC5dBNmoEf3SuWUSQWob```
+- __Dogecoin__: ```DKt7Yv8pU5hTRFJz3gDgwSGBhAsPNyxieC```
+- __NEAR__: ```e9176324a921f87348ab63d8b765c880149af8a8ec2141868cddd77de6693166```
+- __Nano__: ```nano_1paeciem8rbgbowc7x43gdtor6qxykdf8tewj5hqo7t5pjdgcssth7f7oh11```
+- __XRP__: ```rKcyAKXfwc4cyUa1cJdHq1LfddM4Ai8Nee```
+- __Polkadot__: ```1nZDsvidkbuWZKWSpKcmvmzFh4RtamzvcfCBrmdRpmboraQ```
+- __Cosmos Hub__: ```cosmos1rnvn0fp929qgz9pvcu9zagmrth536jvxc6ezll```
+- __DigiByte__: ```dgb1q86wt778xpgry8hj8pjz49wuq9eqtfxym8mr27z```
+- __XLM__ <sub>(Stellar)</sub>: ```GA23XGEL5LYBJW2NFBYEEXGGRZON4QTSLPXAGV6CU5JVGN2K6QW7GES2```
+- __ADA__ <sub>(Cardano></sub>: ```addr1qxnr75kpfjnsyl5mmermpqzmylxqcftq8a999tn7th4mhmz3nzxehmqnm0ffr7lsymscfvykmvqwc4v8ehrffcf42fvq0qrayl```
